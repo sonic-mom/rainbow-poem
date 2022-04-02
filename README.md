@@ -4,3 +4,7 @@ red
 orange
 yellow
 UNICORN
+PONIES
+GLOW WORMS
+FLOWERS 
+ZOMBIES
